@@ -7,7 +7,9 @@
     * [入服指南](joinproblem.md)
 * 相知
     * [领地插件](residence.md)
+    * [星露谷物语](https://www.yuque.com/cleverlu/mrst6a/bqpd7h?theme=light?#)
     * [拓展物品](itemsadder.md)
+    * [烹饪食物](cook.md)
     * [全服点歌](allmusic.md)
     * [系统商店](systemshop.md)
     * [全球市场](globalmarket.md)
