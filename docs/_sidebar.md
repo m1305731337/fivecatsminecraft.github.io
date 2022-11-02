@@ -5,6 +5,7 @@
     * [游戏安装](installgame.md)
     * [基础指令](command.md)
     * [入服指南](joinproblem.md)
+    * [服务器违规条款(FAC)](FAC.md)
 * 相知
     * [领地插件](residence.md)
     * [星露谷物语](https://www.yuque.com/cleverlu/mrst6a/bqpd7h?theme=light?#)
