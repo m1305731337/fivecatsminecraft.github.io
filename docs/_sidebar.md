@@ -1,11 +1,17 @@
+* 五只猫2.0更新进度（暂时置顶）	
+
+    *  [插件进度](插件板块.md)
+
 * 相遇
     * [Hello, FiveCats!](about.md)
     * [小服里有好风光](promote.md)
+    
 * 相识
     * [游戏安装](installgame.md)
     * [基础指令](command.md)
     * [入服指南](joinproblem.md)
     * [服务器违规条款(FAC)](FAC.md)
+    
 * 相知
     * [领地插件](residence.md)
     * [星露谷物语](https://www.yuque.com/cleverlu/mrst6a/bqpd7h?theme=light?#)
@@ -18,8 +24,10 @@
     * [宠物插件](companions.md)
     * [特效插件](procosmetics.md)
     * [破坏查询](coreprotect.md)
+    
 * 喜爱
     * [赞助支持](donate.md)
     * [帮助我们](helpus.md)
+    
 * 秘密
     * [小小技巧](tips.md)
